@@ -1,0 +1,1 @@
+cp -R ./wasm-audio/pkg ./public/wasm-audio
